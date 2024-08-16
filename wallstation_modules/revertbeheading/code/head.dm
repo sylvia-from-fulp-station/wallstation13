@@ -1,3 +1,3 @@
-// ORIGINAL FILE: code/modules/surgery/bodyparts/head.dm
+// Editing: code/modules/surgery/bodyparts/head.dm
 /obj/item/bodypart/head
 	can_dismember = TRUE
